@@ -74,7 +74,7 @@ eigenlayer operator config create
 
 The command will create two files: operator.yaml and metadata.json.
 
-Upload Logo Image, Configure metadata.json, and Upload Both ( Metadata example : https://github.com/ArgonStark/Eigenlayer/blob/main/metadata.json ) 
+Upload Logo Image, Configure metadata.json, and Upload Both ( Metadata example : https://raw.githubusercontent.com/omiDBaghi/omidbaghi/refs/heads/main/metadata.json ) 
 
 Upload the logo of the operator to a publicly accessible location and set the url in your metadata.json file. Operator registration only supports .png images for now and must be less than 1MB in size.
 
